@@ -3,4 +3,7 @@
 
 ## Présentation
 
+* [brouillon- d'idées vue globale](brouillon-ID-vue-globale.jpg)
+* [velo de base](irena-bike-cargo.jpg )
+
 ici on décrit le projet et on fait des liens vers des documents (photo, schema, texte) ou liens web
