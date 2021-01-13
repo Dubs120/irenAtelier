@@ -7,10 +7,12 @@ ici on décrit le projet et on fait des liens vers des documents (photo, schema,
 
 ## Besoins (voir mindap?)
 
-* Afffichaches
+* Affichages
 * Outillages
 * Rangements
 * ....
+
+Un tableur de sainte thèse pour tracer les exigences qu'on aurait mis en évidence dans une mindmap?
 
 ## Prototypes
 
